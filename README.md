@@ -1,2 +1,1 @@
-# Hello-World
-This is the edited version of First Hello-World Repository creation.
+Pull Request for Devops Academy training
