@@ -1,18 +1,18 @@
 # __PROJECT TITLE:__ 
 
->  **MIGRATION OF ON-PREMISES WEB APP TO CLOUD**
+  **MIGRATION OF ON-PREMISES WEB APP TO CLOUD**
 
 ## __PROJECT GROUP__
-> __DEVOPSACADEMY - PROJECT - GROUP3__
+ __DEVOPSACADEMY - PROJECT - GROUP3__
 
 ## __TEAM MEMBERS:__
 
 Team "Devopsacademy Project Group3" consists of 4 tech nerds for the delivery of the Pilot project.
 
->>> -  Daniel Andrade
->>> -  Fernando Rolnik
->>> -  Jay Amaranayake
->>> -  Vanitha Kaliyaperumal
+ -  Daniel Andrade
+ -  Fernando Rolnik
+ -  Jay Amaranayake
+ -  Vanitha Kaliyaperumal
 
 Table of Contents
 =================
