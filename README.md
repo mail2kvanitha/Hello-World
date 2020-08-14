@@ -159,7 +159,7 @@ In progress - to be updated
 __3. Shared Storage Setup__
 In progress - to be updated
 
-> ### II. Database Installation and Setup
+### II. Database Installation and Setup
 In progress - to be updated
 
 
