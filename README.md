@@ -61,6 +61,7 @@ The CEO wanted to migarte the On-premesis Web Application to AWS cloud and below
 * There must be an easy and secure way of developing, with fast feedback (consider CI/CD practices or at least automation scripts).
 
 __Project Timeline__
+
 The pilot project is expected to be completed and reviewed by mid August 2020, and ready for demostration on **17th August 2020**
 
 ### Deliverables
