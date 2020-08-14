@@ -39,7 +39,7 @@ Table of Contents
       * [Business Sign-OFF](#business-sign-off)
 
 
-> # Current Business Status
+# Current Business Status
 A company in Australia currently have a web application running on-premisis in a Linux virtual machine. The application is being used by hundreds of customers every day and it is based on Wordpress which uses LAMP stack (Linux, Apache, MySQL and PHP) to offer great products.
 
 Currently the solution is hosted in a single server (application and database) and deployments are made through FTP transfers to the server.
@@ -78,7 +78,7 @@ The pilot project is expected to be completed and reviewed by mid August 2020, a
 3. Single GitHib repo will be delivered.
 4. This pilot migration will be delivered using Terraform code.
 
-> # Technology Solution - Getting Started
+# Technology Solution - Getting Started
 
 ## Technology Products / Services
  After detailed brainstroming discussion and also considering the timelines of delivery, it is best to go with serverless in every layer of architecture possible. 
@@ -115,7 +115,7 @@ Below are the pre-requisite that needs to be setup for the team to go ahead with
 | 10  |                                               |                 |
 |     |                                               |                 |
 
-> ## Installation Steps
+## Installation Steps
 
 Installation of Wordpress Application requires the Infrastructure to be available to deploy the application. Terraform is used for the creation of Infrastructure and related Networks.  
 
@@ -125,7 +125,7 @@ Below are the different stages of Application Installation and readiness.
    3. Securing Application
    4. Logging and Alarming
 
-> ### I. Infrastructure Readiness
+### I. Infrastructure Readiness
 
 A Well architected Infrastructure needs to have High Availability, Reliability. The AWS cloud is built in Sydney region, considering the users are specific to Australia. 
 Also, the infrastructure is built across 3 availability zones (ap-southeast-2) to achieve High Availabiity in case of diaster.
@@ -163,7 +163,7 @@ In progress - to be updated
 In progress - to be updated
 
 
-> ### III. Application Installation
+### III. Application Installation
 
 __1. Image Creation__
 
@@ -174,14 +174,14 @@ In progress - to be updated
 __3. ECS FARGATE Setup__
 In progress - to be updated
 
-> ### IV. Securing Application
+### IV. Securing Application
 In progress - to be updated
 
-> ### V. Logging and Alarming
+### V. Logging and Alarming
 In progress - to be updated
 
 
-> ## Deployment Automation
+## Deployment Automation
 
 DockerFile
 
@@ -189,11 +189,11 @@ MakeFile
 
 Automatic Deployment Steps
 
-> ## Application Automation
+## Application Automation
 
 Below are the steps to be followed to run automatic deployment of application cluster.
 
-> ##  Recommendations
+##  Recommendations
 
 - Improvements
 
@@ -201,20 +201,19 @@ Below are the steps to be followed to run automatic deployment of application cl
 -  Features not delivered in this Phase
 
 
-> ## Resources
+## Resources
 
 [WORDPRESS BEST PRACTISE] (https://aws.amazon.com/blogs/architecture/wordpress-best-practices-on-aws/)
 [AUTOMATING WORDPRESS] (https://medium.com/@beBrllnt/from-30-minutes-to-10-seconds-automating-wordpress-setup-5ff7526942c0)
 
-> ## License
+## License
 
 [LICENSE](./LICENSE)
 
 
-> ## Business Sign-OFF
+## Business Sign-OFF
 
-| __DENIS SILVA__     |     __CAIO TREVISAN__      |      __KIKO COLLET__     |
-|---------------------|:---------------------------|:-------------------------|
-|              <br>   |                      <br>  |                    <br>  |
-|                     |                            |                          |
-
+>| __DENIS SILVA__     |     __CAIO TREVISAN__      |      __KIKO COLLET__     |
+>|---------------------|:---------------------------|:-------------------------|
+>|              <br>   |                      <br>  |                    <br>  |
+>|                     |                            |                          |
